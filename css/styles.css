@@ -6,3 +6,10 @@
 body {
 	background-color: #ededed;
 }
+
+p:first-child {
+	text-align: center;
+	font-size: 18px;
+	color: yellow;
+	
+}
